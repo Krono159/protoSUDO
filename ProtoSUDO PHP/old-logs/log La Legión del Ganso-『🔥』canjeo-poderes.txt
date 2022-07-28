@@ -1,0 +1,16 @@
+Kant_D: $forcedivorce noelle silva     July 28, 2022, 12:19 am
+Mudae: <@510689187708665857>, **Noelle Silva** pertenece a <@413849931753979918>, ¿Quieres forzar el divorcio? (y/n/yes/no)     July 28, 2022, 12:19 am
+Kant_D: y     July 28, 2022, 12:19 am
+Mudae: Divorcio exitoso...     July 28, 2022, 12:19 am
+Kant_D: ?box <@537806772354678804>     July 28, 2022, 12:37 am
+Carl-bot: <@537806772354678804> se gano según la caja un(a):  Force divorce     July 28, 2022, 12:37 am
+Kant_D: $forcedivorce Yoruichi Shihoin     July 28, 2022, 12:39 am
+Mudae: <@510689187708665857>, **Yoruichi Shihōin** pertenece a <@697809072975511592>, ¿Quieres forzar el divorcio? (y/n/yes/no)     July 28, 2022, 12:39 am
+Kant_D: y     July 28, 2022, 12:39 am
+Mudae: Divorcio exitoso...     July 28, 2022, 12:39 am
+Kant_D: $forcedivorce la caja 3!     July 28, 2022, 12:39 am
+Mudae: No se encontro dueño.     July 28, 2022, 12:39 am
+Kant_D: $forcedivorce la caja 4!     July 28, 2022, 12:40 am
+Mudae: <@510689187708665857>, **la caja 4!** pertenece a <@537806772354678804>, ¿Quieres forzar el divorcio? (y/n/yes/no)     July 28, 2022, 12:40 am
+Kant_D: y     July 28, 2022, 12:40 am
+Mudae: Divorcio exitoso...     July 28, 2022, 12:40 am

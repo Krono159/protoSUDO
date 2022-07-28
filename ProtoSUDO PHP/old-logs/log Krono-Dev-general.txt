@@ -1,0 +1,21 @@
+Kaede159: ASDF on general in Krono-Dev
+Kaede159: p!test on general in Krono-Dev
+ProtoSUDO: Hey! , estoy vivo! on general in Krono-Dev
+Kaede159: p!test on general in Krono-Dev
+ProtoSUDO: Hey! <@610937299903184898>, estoy vivo! on general in Krono-Dev
+Kaede159: ASDFKaede159: p!test
+
+ProtoSUDO: Hey! <@610937299903184898>, estoy vivo!
+
+Kaede159: p!log enable     July 28, 2022, 12:26 am
+Kaede159: p!log enable     July 28, 2022, 12:27 am
+Kaede159: p!log enable     July 28, 2022, 12:28 am
+Kaede159: asdf     July 28, 2022, 12:32 am
+Kaede159: s     July 28, 2022, 12:33 am
+Kaede159: asd     July 28, 2022, 12:34 am
+Kaede159: p!log false     July 28, 2022, 12:35 am
+Kaede159: p!log disable     July 28, 2022, 12:35 am
+ProtoSUDO: Se ha desactivado el log de mensajes     July 28, 2022, 12:35 am
+Kaede159: .asdf     July 28, 2022, 12:43 am
+Kaede159: p!log enable     July 28, 2022, 12:45 am
+Kaede159: p!log enable     July 28, 2022, 12:46 am
