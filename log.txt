@@ -1,0 +1,44 @@
+[
+  {
+    options: [],
+    name: 'ping',
+    name_localizations: undefined,
+    description: 'Replies with pong!',
+    description_localizations: undefined,
+    default_permission: undefined,
+    default_member_permissions: undefined,
+    dm_permission: undefined
+  },
+  {
+    options: [],
+    name: 'server',
+    name_localizations: undefined,
+    description: 'Replies with server info!',
+    description_localizations: undefined,
+    default_permission: undefined,
+    default_member_permissions: undefined,
+    dm_permission: undefined
+  },
+  {
+    options: [],
+    name: 'user',
+    name_localizations: undefined,
+    description: 'Replies with user info!',
+    description_localizations: undefined,
+    default_permission: undefined,
+    default_member_permissions: undefined,
+    dm_permission: undefined
+  }
+]
+DiscordAPIError[0]: 401: Unauthorized
+    at SequentialHandler.runRequest (D:\Users\Kaede159\Desktop\protoSUDO\ProtoSUDO\ProtoSUDO NJS\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:287:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (D:\Users\Kaede159\Desktop\protoSUDO\ProtoSUDO\ProtoSUDO NJS\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:99:14)
+    at async REST.request (D:\Users\Kaede159\Desktop\protoSUDO\ProtoSUDO\ProtoSUDO NJS\node_modules\@discordjs\rest\dist\lib\REST.cjs:52:22) {
+  rawError: { message: '401: Unauthorized', code: 0 },
+  code: 0,
+  status: 401,
+  method: 'PUT',
+  url: 'https://discord.com/api/v10/applications/911444198329303070/guilds/559469796920655902/commands',
+  requestBody: { files: undefined, json: [ [Object], [Object], [Object] ] }
+}

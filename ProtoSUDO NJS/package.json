@@ -1,0 +1,27 @@
+{
+  "name": "protosudo-njs",
+  "version": "0.0.1",
+  "description": "ProtoSUDO Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krono159/ProtoSUDO.git"
+  },
+  "author": "Kaede159",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krono159/ProtoSUDO/issues"
+  },
+  "homepage": "https://github.com/Krono159/ProtoSUDO#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
